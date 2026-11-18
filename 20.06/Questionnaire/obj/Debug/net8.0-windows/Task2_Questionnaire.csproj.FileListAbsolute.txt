@@ -1,0 +1,16 @@
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.exe
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.deps.json
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.runtimeconfig.json
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.runtimeconfig.dev.json
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.dll
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\bin\Debug\net8.0-windows\Task2_Questionnaire.pdb
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.AssemblyInfoInputs.cache
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.AssemblyInfo.cs
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.csproj.CoreCompileInputs.cache
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.dll
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\refint\Task2_Questionnaire.dll
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.pdb
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Questionnaire.genruntimeconfig.cache
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\ref\Task2_Questionnaire.dll
+C:\Users\twice\Desktop\WinForms_Homework\Questionnaire\obj\Debug\net8.0-windows\Task2_Qu.9876F79A.Up2Date
